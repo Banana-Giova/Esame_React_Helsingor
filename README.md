@@ -1,4 +1,4 @@
-# Progetto_Helsingor-React_Native
+# Progetto_Helsingor-React
 
 Questo progetto ha come obiettivo la gestione delle prenotazioni per la compagnia teatrale Teatro Stabile Helsingor, offrendo sia un'applicazione mobile che una web. Il sistema è composto da un **backend** che gestisce le prenotazioni e le credenziali dei moderatori, e da due frontend separati, uno per l'app mobile sviluppata con **React Native** e uno per l'app web sviluppata con **React Vite**.
 
