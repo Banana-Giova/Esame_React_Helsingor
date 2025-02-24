@@ -23,9 +23,9 @@ Il progetto è diviso in tre cartelle principali:
 3. **`vite-react_server`**:  
    Contiene il frontend web sviluppato con **React Vite**. Permette di visualizzare gli spettacoli e fare prenotazioni tramite un browser web. I moderatori possono anche accedere per gestire le prenotazioni.
    **Funzionalità principali**:
-   - Visualizzazione degli spettacoli.
-   - Prenotazioni da parte dei clienti.
-   - Gestione delle prenotazioni e accesso per i moderatori.
+   - Login per i moderatori.
+   - Gestione delle prenotazioni da parte dei moderatori.
+   - Visualizzazione degli spettacoli e prenotazioni da parte dei clienti.
 
 ## **Panoramica delle Funzionalità del Progetto**
 
